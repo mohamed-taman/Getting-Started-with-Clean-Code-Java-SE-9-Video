@@ -20,7 +20,6 @@ All the topics are powered by examples to make the explanations practical too.
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-To fully benefit from the coverage included in this course, you will need:
 
 ●	Prior working knowledge of the Java Programming language.
 
@@ -30,7 +29,6 @@ To fully benefit from the coverage included in this course, you will need:
 
 ### Technical Requirements
 This course has the following software requirements:<br/>
-This course has the following software requirements:
 
 ●	Java SE Development Kit 9+
 
